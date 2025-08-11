@@ -30,7 +30,7 @@ export default function Index() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('/img/244ebdc2-7540-4294-a733-40bfc70da086.jpg')`
+            backgroundImage: `linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://cdn.poehali.dev/files/84418abc-9c9e-41c7-a1ee-e85e1bed13ee.jpg')`
           }}
         />
         <div className="relative z-10 container mx-auto px-4 py-24 lg:py-32">
